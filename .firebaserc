@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ecommerce-29b3b": {
+      "hosting": {
+        "platzi-store": [
+          "ecommerce-29b3b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ecommerce-29b3b"
+  }
+}
